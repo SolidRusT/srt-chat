@@ -1,0 +1,6 @@
+wheel
+setuptools
+packages
+llama-cpp-agent
+srt-core
+click
